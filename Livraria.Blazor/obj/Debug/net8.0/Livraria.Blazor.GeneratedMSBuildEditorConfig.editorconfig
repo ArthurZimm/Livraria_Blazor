@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Livraria.Blazor
+build_property.RootNamespace = Livraria.Blazor
+build_property.ProjectDir = C:\dev\LivrariaBlazor\Livraria\Livraria.Blazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\dev\LivrariaBlazor\Livraria\Livraria.Blazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/EditaLivro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0YUxpdnJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/LivroForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXZyb0Zvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/Livros.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXZyb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/LivrosCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXZyb3NDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/NovoLivro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3ZvTGl2cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-hlgpkdfn59
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fzdpexwkt5
+
+[C:/dev/LivrariaBlazor/Livraria/Livraria.Blazor/Components/Pages/DialogoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaWFsb2dvQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-dpfo593jsn

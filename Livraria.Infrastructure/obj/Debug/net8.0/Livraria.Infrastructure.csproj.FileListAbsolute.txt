@@ -1,0 +1,17 @@
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.deps.json
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.runtimeconfig.json
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.dll
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Infrastructure.pdb
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Domain.dll
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\bin\Debug\net8.0\Livraria.Domain.pdb
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.AssemblyInfo.cs
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.csproj.CopyComplete
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.dll
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\refint\Livraria.Infrastructure.dll
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.pdb
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\Livraria.Infrastructure.genruntimeconfig.cache
+C:\dev\LivrariaBlazor\Livraria\Livraria.Infrastructure\obj\Debug\net8.0\ref\Livraria.Infrastructure.dll

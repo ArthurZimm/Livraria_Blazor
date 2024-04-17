@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Livraria.Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\2001odisseia1.jpg",
+      "PackagePath": "staticwebassets\\images\\2001odisseia1.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\cleanarch1.jpg",
+      "PackagePath": "staticwebassets\\images\\cleanarch1.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\cleancode1.jpg",
+      "PackagePath": "staticwebassets\\images\\cleancode1.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\ddd1.jpg",
+      "PackagePath": "staticwebassets\\images\\ddd1.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\livraria.jpg",
+      "PackagePath": "staticwebassets\\images\\livraria.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\livrariaicon.png",
+      "PackagePath": "staticwebassets\\images\\livrariaicon.png"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\quartarevolucao1.jpg",
+      "PackagePath": "staticwebassets\\images\\quartarevolucao1.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\semfoto.jpg",
+      "PackagePath": "staticwebassets\\images\\semfoto.jpg"
+    },
+    {
+      "Id": "C:\\dev\\LivrariaBlazor\\Livraria\\Livraria.Blazor\\wwwroot\\images\\senhoraneis1.jpg",
+      "PackagePath": "staticwebassets\\images\\senhoraneis1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Livraria.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Livraria.Blazor.props",
+      "PackagePath": "build\\Livraria.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Livraria.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Livraria.Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Livraria.Blazor.props",
+      "PackagePath": "buildTransitive\\Livraria.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
