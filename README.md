@@ -1,0 +1,1 @@
+Foi desenvolvido um simples crud a fim de entender a tecnologia do Blazor no .NET 8, e fortalecer os conhecimentos de Clean Architecture e EntityFrameWork, foi utilizado o banco Sqlite por ser uma aplicação simples.
